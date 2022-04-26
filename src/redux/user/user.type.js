@@ -1,0 +1,5 @@
+export const TODO_ACTION_TYPES = {
+    ADD_TODO: 'ADD_TODO',
+    DELETE_DOTO: 'DELETE_TODO',
+    EDIT_TODO: 'EDIT_TODO'
+}
